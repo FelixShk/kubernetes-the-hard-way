@@ -50,4 +50,3 @@ service-account-csr.json
 *.swp
 .idea/
 downloads/
-my-ca.conf
